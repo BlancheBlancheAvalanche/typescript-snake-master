@@ -1,0 +1,16 @@
+{
+  "name": "typescript-snake-master",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
